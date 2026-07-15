@@ -1,6 +1,6 @@
 <!-- PREMIUM BLUEPRINT BANNER -->
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Atiq's Blueprint Banner" style="border-radius: 6px;" />
+  <img src="https://raw.githubusercontent.com/InMyMine7/InMyMine7/refs/heads/main/b8027272774cf4a075e1112e4aec20b3.gif" width="100%" alt="Atiq's Blueprint Banner" style="border-radius: 6px;" />
 </p>
 
 <br/>
