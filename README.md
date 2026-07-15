@@ -1,29 +1,49 @@
-<!-- Header & Branding -->
-<div align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%" alt="Tech Banner" style="border-radius: 6px; filter: grayscale(20%) contrast(110%);" />
-  
-  <br/>
-  
-  <h1><code>atiq_abdullah.sys</code></h1>
-  <p><strong>INTERFACE ARCHITECT & SOFTWARE ENGINEER</strong></p>
-  <p><em>“Bridging the gap between structural engineering and human-centered design.”</em></p>
+<!-- PREMIUM BLUEPRINT BANNER -->
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Atiq's Blueprint Banner" style="border-radius: 6px;" />
+</p>
 
-  <!-- Minimalist Clean Navigation -->
-  <p>
-    <a href="https://linkedin.com/in/atiq-abdullah"><code>[ linkedin ]</code></a> &nbsp;•&nbsp;
-    <a href="https://www.behance.net/ateeqabdullah"><code>[ behance ]</code></a> &nbsp;•&nbsp;
-    <a href="https://instagram.com/a3tiq_"><code>[ instagram ]</code></a> &nbsp;•&nbsp;
-    <a href="mailto:atiqabdullah86@gmail.com"><code>[ email ]</code></a>
-  </p>
-</div>
+<br/>
 
----
+<!-- HERO WORKSPACE SPLIT (Left: Bio & Socials | Right: Retro GIF) -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: Branding, Title, and Directory Navigation -->
+    <td width="55%" valign="middle">
+      <h1><code>ATIQ ABDULLAH // عتيق عبد الله</code></h1>
+      <p><b>INTERFACE ARCHITECT & FULL-STACK ENGINEER</b></p>
+      <p><i>Fusing premium user experience with robust system architecture.</i></p>
+      <br/>
+      <p>
+        <a href="https://linkedin.com/in/atiq-abdullah"><code>[ LINKEDIN ]</code></a> &nbsp;•&nbsp;
+        <a href="https://www.behance.net/ateeqabdullah"><code>[ BEHANCE ]</code></a> &nbsp;•&nbsp;
+        <a href="https://instagram.com/a3tiq_"><code>[ INSTAGRAM ]</code></a> &nbsp;•&nbsp;
+        <a href="mailto:atiqabdullah86@gmail.com"><code>[ EMAIL ]</code></a>
+      </p>
+    </td>
+    <!-- Right Column: Interactive GIF -->
+    <td width="45%" align="right" valign="middle">
+      <img src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif" width="310" style="border-radius: 8px; border: 1px solid #1f242c;" alt="Working Hard" />
+    </td>
+  </tr>
+</table>
 
-### // SYSTEM DIAGNOSTICS
+<br/>
+<hr style="border: 0; border-top: 1px solid #1f242c;" />
+<br/>
 
-```yml
-identity  : Atiq Abdullah
-role      : Full-Stack Engineer × UI/UX Product Designer
-location  : Pakistan 🇵🇰
-experience: 3+ Years (Corporate & Independent)
-focus     : High-fidelity Design Systems, Mobile Viewports, & Robust API Architectures
+<!-- CONSOLE DIAGNOSTICS -->
+<h2>✦ CONSOLE_LOG</h2>
+<br/>
+
+```javascript
+const developer = {
+  name: "Atiq Abdullah",
+  origin: "Pakistan 🇵🇰",
+  vision: "To design fluid interfaces and ship flawless codebases.",
+  metrics: {
+    height: "6'0\"",
+    frame: "athletic / highly disciplined",
+    focus: "Hyper-clean UI, Localized Spacing, & Cross-Platform Engines"
+  }
+};
