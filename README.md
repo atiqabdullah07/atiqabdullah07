@@ -1,25 +1,69 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Atiq Abdullah</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-- 🔭 I’m currently working on **Flutter, Node, Python**
+<!-- Header Graphic / Minimal Tech Banner -->
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%" alt="Masterhead Banner" style="border-radius: 8px;" />
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, Tensor Flow**
+<br/>
 
-- 💬 Ask me about **Mobile App Development**
+# ✦ Atiq Abdullah ✦
+### **Product Designer & Full-Stack Developer**
+_Crafting high-fidelity interfaces and high-performance digital products._
 
-- 📫 How to reach me **atiqabdullah86@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atiq-abdullah)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ateeqabdullah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a3tiq_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiqabdullah86@gmail.com)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+I sit at the intersection of **technical architecture** and **pixel-perfect design**. With a solid foundation in software engineering and a deep focus on product design systems, I build seamless, cross-platform layouts and robust backend infrastructures. 
+
+*   🚀 **Current Focus:** Developing premium mobile layouts and web architectures with **Flutter, Next.js, and React Native**.
+*   🎨 **Design Philosophy:** Human-centered, high-converting UX, and cohesive design systems featuring dual-language typographic alignment (English & Arabic).
+*   🛠️ **Tech Stack Balance:** Bridging the gap between a rich backend database architecture and a delightful micro-interaction.
+
+---
+
+## 🛠️ Ecosystem & Tooling
+
+<h3 align="left">💻 Engineering & Frameworks</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atiq abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiq abdullah" height="30" width="40" /></a>
-<a href="https://instagram.com/a3tiq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a3tiq_" height="30" width="40" /></a>
-<a href="https://www.behance.net/ateeqabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ateeqabdullah" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=dart,js,python,java,firebase,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="left">🎨 Interface & Product Design</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqabdullah07&show_icons=true&locale=en&layout=compact" alt="atiqabdullah07" /></p>
+---
 
+## 📊 Performance Metrics
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=atiqabdullah07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqabdullah07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Good design is invisible. Good engineering is seamless."</i></p>
+  <img src="https://komarev.com/normal- some-indicator/urles?page=atiqabdullah07&style=flat-square&label=PROFILE+VIEWS&color=0077b5" alt="Visitor Count" />
+</div>
